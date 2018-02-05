@@ -6,8 +6,9 @@ Here is my submission for the [new ImageJ logo competition](http://forum.imagej.
 ## Accessory files:
 * **IJ Logo - Using PowerPoint shapes.pptx** - A PowerPoint file showing how to build the logo using the built-in drawing shapes. Also contains finished versions for easy copy-pasting.
 * **IJ Logo Construction.pdf** - A PDF showing a plan of the logo's construction. This PDF can be opened in Adobe Illustrator to access the logo shapes and layers directly.
-* **IJ_logo_quokka79.svg** - An SVG version of the logo (shown above).
-* **MakeLogoMacro.ijm** - An ImageJ macro to construct the logo from scratch using ROI selection shapes. The macro follows the same directions as described in the text file in this repo (below).
 * **IJ Logo Instructions.txt** - Text instructions to build the logo, e.g. as a basis for scripted construction.
+* **IJ_logo_quokka79.svg** - An SVG version of the logo, as shown above.
+* **MakeLogoMacro.ijm** - An ImageJ macro to construct the logo from scratch using ROI selection shapes. The macro follows the same directions as described in the text file in this repo.
+
 
 My original [submission post on the ImageJ Forum](http://forum.imagej.net/t/contest-new-imagej-logo/8485/22) has some more information and contextual images.
