@@ -6,9 +6,9 @@ base_unit = 100;
 
 // You can enter fixed values for the canvas here, so long as the final logo will fit!
 // The final width of logo will be 2.1 * base_unit and the final height of logo will be 4.3 * base_unit.
-// Here we also add 0.5 * base_unit as a padding:
+// Here we also add 0.5 * base_unit as a padding around the logo:
 canvas_width = 2.6 * base_unit;
-canvas_height = 5.2 * base_unit;
+canvas_height = 4.8 * base_unit;
 
 // Create a new blank RGB image
 newImage("Untitled", "RGB white", canvas_width, canvas_height, 1);
@@ -50,7 +50,7 @@ roiManager("Add");
 roiManager("Select", 2);
 roiManager("Rename", "i-base");
 
-// Delete the original shapes from the ROI Manager
+// Delete the original shapes from the ROI Manager which we no longer need
 roiManager("Deselect");
 roiManager("Select", 1);
 roiManager("Delete");
