@@ -16,7 +16,7 @@ j02. [Optional, see Note 2] Draw a circle of diameter 1.00 unit. Translate this 
 j03. Draw a circle of diameter 3.20 units. Translate this shape 0.55 units left and 0.55 units down.
 j04. Draw a circle of diameter 1.20 units. Translate this shape 0.55 units left and 0.55 units down.
 j05. Subtract the smaller circle (j04) from the larger circle (j03).
-j06. Draw a square 1.60 units each side. Translate this shape 0.25 units to the right and 1.35 units down.
+j06. Draw a square 1.60 units each side. Translate this shape 1.35 units to the right and 1.35 units down.
 j07. Retain the intersection of the square from j06 and the donut shape from j05.
 j08. Draw a circle of diameter 1.00 unit. Translate this shape 0.55 units to the left and 1.65 units down.
 j09. Retain the intersection of shapes j01, j07, and j08 (and j02 if you drew it; See Note 2.)
