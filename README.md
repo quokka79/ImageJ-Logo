@@ -14,3 +14,6 @@ Here is my submission for the [new ImageJ logo competition](http://forum.imagej.
 
 
 My original [submission post on the ImageJ Forum](http://forum.imagej.net/t/contest-new-imagej-logo/8485/22) has some more information and contextual images.
+
+### Colours
+The slight difference in colours -- mainly in the blue -- between the forum post and the images here is due to the conversion from CMYK to RGB in the original image export; this conversion has left the blue looking a bit washed out. The colours shown here are the intended (RGB) colours. However, if you want to use the colours which match the original submission they are RGB(114,200,218) or #72C8DA for the blue and RGB(254,203,54) or #FECB36 for the yellow.
