@@ -10,15 +10,15 @@ base_unit = 100;
 canvas_width = 2.6 * base_unit;
 canvas_height = 4.8 * base_unit;
 
-// Create a new blank RGB image
-newImage("Untitled", "RGB white", canvas_width, canvas_height, 1);
-
 // the center of the logo will be in the center of the image
 x_origin = canvas_width / 2;
 y_origin = canvas_height / 2;
 
 // Begin!
 setBatchMode("hide"); 
+
+// Create a new blank RGB image
+newImage("Untitled", "RGB white", canvas_width, canvas_height, 1);
 
 // -------------------------------------------------
 // Build the i character
