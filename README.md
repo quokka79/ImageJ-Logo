@@ -17,3 +17,6 @@ My original [submission post on the ImageJ Forum](http://forum.imagej.net/t/cont
 
 ### Colours
 The slight difference in colours -- mainly in the blue -- between the forum post and the images here is due to the conversion from CMYK to RGB in the original image export; this conversion has left the blue looking a bit washed out. The colours shown here are the intended (RGB) colours. However, if you want to use the colours which match the original submission they are RGB(114,200,218) or #72C8DA for the blue and RGB(254,203,54) or #FECB36 for the yellow.
+
+### Designery handwaving time
+For me, the big thing about ImageJ is not microscopy so much as the community behind it. The whole thing exists becaues of the combined efforts and talents of so many people and it *persists* because this community is there to help others to use it, to extend it, and to share knowledge and expertise regarding image analysis. Many times I have had a problem and found that someone has already made a macro or a plugin which either solved the problem then and there or at least went a long way towards solving it! So that's what I was going for with this logo and maybe you can see two characters in the logo and maybe it looks like one of them is reaching across the other, in a gesture of assistance!
